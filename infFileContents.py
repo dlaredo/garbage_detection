@@ -30,6 +30,7 @@ class InfFile(object):
 	module_type = ''
 	version_string = ''
 	entry_point = ''
+	path = ''
 
 	defines = set()
 	sources = set()
