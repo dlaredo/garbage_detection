@@ -3,7 +3,7 @@ import os
 import os.path
 import re
 import stat
-from garbageCorrection import *
+from garbageCollection import *
 
 #Main function
 def main():
